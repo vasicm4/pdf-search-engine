@@ -15,20 +15,6 @@ Evaluating Search Engine performance is accomplished using Data Structures and A
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
 
-
-***
-## 📋 Contents
-1. [Specification](#specification)
-2. [Dependencies](#dependencies)
-3. [Getting Started](#start)
-4. [Functionalities](#functionalities)
-    1. [Single/Multiple Word Search](#word-search)
-    2. [Phrase Search](#phrase)
-    3. [Logical Operations](#logical-operations)
-    4. [Autocomplete](#autocomplete)
-4. [License](#license)
-5. [Contact](#contact)
-***
 <a name="specification"><a/>
 ## 📌 Specification:
 
@@ -67,6 +53,19 @@ Provides query completion based on indexed words. "Did you mean?" feature sugges
 9. **PDF Export & Highlighting**
 
 Allows users to save search results as a separate PDF file, extracted pages with relevant matches are compiled into a new document, highlights keywords in the exported PDF for easier identification.
+
+***
+## 📋 Contents
+1. [Specification](#specification)
+2. [Dependencies](#dependencies)
+3. [Getting Started](#start)
+4. [Functionalities](#functionalities)
+    1. [Single/Multiple Word Search](#word-search)
+    2. [Phrase Search](#phrase)
+    3. [Logical Operations](#logical-operations)
+    4. [Autocomplete](#autocomplete)
+4. [License](#license)
+5. [Contact](#contact)
 
 ***
 <a name="dependencies"><a/>
